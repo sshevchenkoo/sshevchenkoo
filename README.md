@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Yaroslav  👋</h1>
 
 <p align="center">
-  <b>Python AI &amp; Automation Engineer</b> · C/C++ foundation from <b>42 Warsaw</b><br>
-  Building LLM apps, RAG &amp; multi-agent pipelines — backed by solid DevOps/infra.
+  <b>DevOps Engineer</b> · AI &amp; Automation enthusiast · C/C++ foundation from <b>42 Warsaw</b><br>
+  Building CI/CD, cloud infrastructure &amp; observability — and automating ops with Python and LLMs.
 </p>
 
 <p align="center">
@@ -20,60 +20,79 @@
 
 ### 🚀 About me
 
-- 🤖 I build **LLM apps** for search, retrieval & recommendations
-- 🔎 Hybrid search (embeddings + semantic + structured filters), **RAG** & multi-agent pipelines
-- ⚙️ AI pipelines for intent detection, ranking & content generation
-- 🕸️ Web scraping & data ingestion systems
-- 📈 Algorithmic trading bots with automated execution
-- 🛠️ Automating workflows with Python, APIs & DevOps tooling
-- 🎓 C/C++ engineer from **42 Warsaw** · 3+ years across support/infra & Python dev
+- ⚙️ **DevOps** — CI/CD with GitHub Actions, infrastructure as code with **Terraform** & **Ansible**, Kubernetes deployments with **Helm**
+- 📡 **Observability** — Prometheus, Alertmanager, Grafana, Zabbix, ELK, OpenTelemetry
+- 🖥️ **Ops background** — L2 support → NOC engineer at a cloud gaming platform: incident response, Linux/Windows, monitoring & Ansible automation
+- 🛠️ **System administration** — automating onboarding/offboarding, IAM and Google Workspace with Python
+- 🤖 **AI & automation** — LLM apps, RAG, hybrid search and multi-agent pipelines; using LLMs to automate ops workflows
+- 🎓 C/C++ engineer from **42 Warsaw** · 2+ years across support, infra & Python dev
+
+---
+
+### 📌 Featured projects
+
+| Project | What it shows | Stack |
+|---|---|---|
+| [**Warsaw Events**](https://github.com/sshevchenkoo/warsaww) | Cloud-native platform (team project): CI/CD → GHCR → Kubernetes, Terraform on DigitalOcean, full monitoring & logging stack | Kubernetes · Helm · Terraform · Ansible · GitHub Actions · Prometheus · ELK |
+| [**Minishell**](https://github.com/sshevchenkoo/42_minishell) | Bash-like shell: processes, pipes, redirections, heredoc, signals | C · fork/execve · pipes |
+| [**IRC Server**](https://github.com/sshevchenkoo/irc_server) | Multi-client IRC server on non-blocking sockets | C++ · TCP · poll() |
+| [**AI Trading Agent**](https://github.com/sshevchenkoo/ai_trading_agent) | Automated trading bot powered by a multi-agent LLM pipeline | Python · Anthropic API · async |
 
 ---
 
 ### 🧰 Tech Stack
 
-**AI / LLM**
-<p>
-  <img src="https://img.shields.io/badge/Anthropic_API-191919?style=flat-square&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-4B8BBE?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=flat-square"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
-</p>
-
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-</p>
-
-**Backend / Data**
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-</p>
-
 **DevOps / Infra**
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ELK-005571?style=flat-square&logo=elasticstack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
+</p>
+
+**Monitoring / Observability**
+<p>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ELK-005571?style=flat-square&logo=elasticstack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white"/>
+</p>
+
+**AI / Automation**
+<p>
+  <img src="https://img.shields.io/badge/Anthropic_API-191919?style=flat-square&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-4B8BBE?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Multi--agent_pipelines-7C3AED?style=flat-square"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+</p>
+
+**Languages / Backend**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 🐍 Contributions
 
 <p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=sshevchenkoo&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshevchenkoo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sshevchenkoo/sshevchenkoo/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sshevchenkoo/sshevchenkoo/output/github-snake.svg" />
+    <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/sshevchenkoo/sshevchenkoo/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
@@ -82,4 +101,4 @@
 
 `English` — Professional working · `Polish` — Fluent · `Ukrainian` — Native · `Russian` — Native
 
-<p align="center"><i>Open to AI / Python engineering roles 🚀</i></p>
+<p align="center"><i>Open to DevOps / AI automation roles 🚀</i></p>
