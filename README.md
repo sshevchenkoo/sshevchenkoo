@@ -29,17 +29,6 @@
 
 ---
 
-### 📌 Featured projects
-
-| Project | What it shows | Stack |
-|---|---|---|
-| [**Warsaw Events**](https://github.com/sshevchenkoo/warsaww) | Cloud-native platform (team project): CI/CD → GHCR → Kubernetes, Terraform on DigitalOcean, full monitoring & logging stack | Kubernetes · Helm · Terraform · Ansible · GitHub Actions · Prometheus · ELK |
-| [**Minishell**](https://github.com/sshevchenkoo/42_minishell) | Bash-like shell: processes, pipes, redirections, heredoc, signals | C · fork/execve · pipes |
-| [**IRC Server**](https://github.com/sshevchenkoo/irc_server) | Multi-client IRC server on non-blocking sockets | C++ · TCP · poll() |
-| [**AI Trading Agent**](https://github.com/sshevchenkoo/ai_trading_agent) | Automated trading bot powered by a multi-agent LLM pipeline | Python · Anthropic API · async |
-
----
-
 ### 🧰 Tech Stack
 
 **DevOps / Infra**
@@ -94,11 +83,3 @@
     <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/sshevchenkoo/sshevchenkoo/output/github-snake.svg" />
   </picture>
 </p>
-
----
-
-### 🌍 Languages
-
-`English` — Professional working · `Polish` — Fluent · `Ukrainian` — Native · `Russian` — Native
-
-<p align="center"><i>Open to DevOps / AI automation roles 🚀</i></p>
