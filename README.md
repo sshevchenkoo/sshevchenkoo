@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Yaroslav  👋</h1>
+<h1 align="center">Hello  👋</h1>
 
 <p align="center">
   <b>DevOps Engineer</b> · AI &amp; Automation enthusiast · C/C++ foundation from <b>42 Warsaw</b><br>
